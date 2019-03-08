@@ -13,11 +13,12 @@
     
     <item>
       <title>Welcome to our new site!</title>
-      <link>/2019/03/08/test/</link>
+      <link>/2019/03/08/welcome/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/08/test/</guid>
-      <description>Welcome</description>
+      <guid>/2019/03/08/welcome/</guid>
+      <description>Welcome to the new website for the CSU R Users Group.
+Here, you will find the latest announcements from our mailing list about upcoming events, etc.</description>
     </item>
     
     <item>
