@@ -6,10 +6,20 @@
     <description>Recent content on CSU R Users Group website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Work Day</title>
+      <link>/2019/04/01/work-day/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/01/work-day/</guid>
+      <description>Hello all! We will be having an open work day today.
+Please feel free to drop in any time between 3-5 with your R questions, or just hang out with some like-minded R users.</description>
+    </item>
     
     <item>
       <title>Welcome to our new site!</title>
