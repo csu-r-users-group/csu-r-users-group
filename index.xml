@@ -6,10 +6,20 @@
     <description>Recent content on CSU R Users Group website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cleaning and plotting date/time data in R</title>
+      <link>/2019/04/15/datetime/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/15/datetime/</guid>
+      <description>Hi all! Today Magda Garbowski will be giving a short talk on cleaning and plotting date/time data in R.
+The talk will last approximately 30 minutes, followed by an open work session. Please feel free to come by for the talk, the work session, or both!</description>
+    </item>
     
     <item>
       <title>Open Work Day</title>
