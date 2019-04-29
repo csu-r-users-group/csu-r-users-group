@@ -6,10 +6,21 @@
     <description>Recent content on CSU R Users Group website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mixed models using lme4 and nlme</title>
+      <link>/2019/04/29/mixed_models/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/29/mixed_models/</guid>
+      <description>Hello R-users,
+On Monday, April 29, Scott Haley will walk us through the basics of implementing mixed effects models in R. We&amp;rsquo;ll walk through differences between two packages commonly used for these models: nlme and lme4. Feel free to bring your own data to work with or just follow along with the group.
+Hope to see you there! Plant Sciences C005 3pm.</description>
+    </item>
     
     <item>
       <title>Cleaning and plotting date/time data in R</title>
@@ -56,9 +67,8 @@ Here, you will find the latest announcements from our mailing list about upcomin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks/</guid>
-      <description>15 April 2019: Plotting with dates and times  Presented by Magda Garbowski. Talk materials can be found here.
-Past Talks  25 March 2019: The apply family of functions  Presented by Matt Espe
- 11 March 2019: An Introduction to Writing Functions in R  Presented by Matt Espe</description>
+      <description>29 April 2019: Mixed models using lme4 and nlme  Scott Haley will walk us through the basics of implementing mixed effects models in R. We&amp;rsquo;ll walk through differences between two packages commonly used for these models: nlme and lme4. Feel free to bring your own data to work with or just follow along with the group.
+Past Talks  15 April 2019: Plotting with dates and times  Presented by Magda Garbowski.</description>
     </item>
     
   </channel>
