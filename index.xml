@@ -6,10 +6,22 @@
     <description>Recent content on CSU R Users Group website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Location</title>
+      <link>/2019/05/28/new-location/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/28/new-location/</guid>
+      <description>Hello all,
+Just a reminder that we have a new location for the summer. We will be meeting at the Treehouse Conference Room, NR 360 for the remainder of the summer.
+This coming Wed will be a working meeting, so bring your R questions!
+See you tomorrow!</description>
+    </item>
     
     <item>
       <title>Summer meeting times</title>
